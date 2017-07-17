@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.waes.jb64diff.Jb64diffApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.494 sec - in br.com.waes.jb64diff.Jb64diffApplicationTests

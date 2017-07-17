@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.waes.jb64diff.controller.JB64DataControllerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.226 sec - in br.com.waes.jb64diff.controller.JB64DataControllerTest

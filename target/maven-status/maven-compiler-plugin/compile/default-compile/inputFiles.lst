@@ -1,0 +1,11 @@
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/model/Diff.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/model/JSONData.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/service/JB64DataService.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/controller/JB64DataController.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/Jb64diffApplication.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/repository/JB64DataRepository.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/service/InsightService.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/service/InsightServiceImpl.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/model/Insight.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/service/JB64DataServiceImpl.java
+/home/sergiolpf/tools/workspaces/WS/jb64diff/src/main/java/br/com/waes/jb64diff/model/JB64Data.java
